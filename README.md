@@ -3,7 +3,7 @@ GNN: graph neural network
 
 Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 
-### Survey papers
+### Survey papers [百度网盘](https://pan.baidu.com/s/1AozEmxrB6YfVLCn0RUW5OA ) `提取码：0sz3 `
 1. **Graph Neural Networks: A Review of Methods and Applications.** arxiv 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
     
     *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
@@ -34,7 +34,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 *Scarselli, Franco and Gori, Marco and Tsoi, Ah Chung and Hagenbuchner, Markus and Monfardini, Gabriele.* IEEE TNN 2009. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4700287)
 
 
-### Models
+### Models [百度网盘](https://pan.baidu.com/s/1S-vdHruXe4cHk8UEhGHnVQ ) `提取码：lp5g`
 
 1. **A new model for learning in graph domains.**
 *Marco Gori, Gabriele Monfardini, Franco Scarselli.* IJCNN 2005. [paper](https://www.researchgate.net/profile/Franco_Scarselli/publication/4202380_A_new_model_for_earning_in_raph_domains/links/0c9605188cd580504f000000.pdf)
@@ -168,7 +168,7 @@ Contributed by Jie Zhou, Ganqu Cui and Zhengyan Zhang.
 1. **Heterogeneous Graph Attention Network.**
 *Xiao Wang, Houye Ji, Chuan Shi, Bai Wang, Peng Cui, P. Yu, Yanfang Ye.* WWW 2019. [paper](https://arxiv.org/pdf/1903.07293.pdf)
 
-### Applications
+### Applications[百度网盘](https://pan.baidu.com/s/1uGXZJoHkqKmpk0EsRDOpmg ) `提取码：f56n `
 
 1. **Discovering objects and their relations from entangled scene representations.**
 *David Raposo, Adam Santoro, David Barrett, Razvan Pascanu, Timothy Lillicrap, Peter Battaglia.* ICLR Workshop 2017. [paper](https://arxiv.org/pdf/1702.05068.pdf)
